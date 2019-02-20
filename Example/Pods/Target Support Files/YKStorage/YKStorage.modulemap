@@ -1,0 +1,6 @@
+framework module YKStorage {
+  umbrella header "YKStorage-umbrella.h"
+
+  export *
+  module * { export * }
+}

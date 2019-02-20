@@ -1,0 +1,16 @@
+PODS:
+  - YKStorage (0.1.0)
+
+DEPENDENCIES:
+  - YKStorage (from `../`)
+
+EXTERNAL SOURCES:
+  YKStorage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YKStorage: 781f24fdaa7fe66f19ddbb4c78c0b36d987cfb90
+
+PODFILE CHECKSUM: 28ccce8466f6b66af8036cc580daab33ed2dcf64
+
+COCOAPODS: 1.5.3
