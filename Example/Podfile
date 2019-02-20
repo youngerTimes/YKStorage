@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YKStorage_Tests' do
+  pod 'YKStorage', :path => '../'
+  
+  
+end
